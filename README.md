@@ -18,7 +18,7 @@ It can also assign the scope i.e specify ip addresses range.<br>
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-  1. Configuration summary<br>
+  ## 1. Configuration summary
   
   Server manager dashboard showing roles and servers assigned.<br>
   
