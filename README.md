@@ -25,7 +25,9 @@ This lab contains a domain controller in the windows server 2019 that houses the
    ![AD DS](https://user-images.githubusercontent.com/61822296/194907794-8879a48a-ac26-463f-b9f5-b3ec8d447183.png)
   
   4. Setting up the administrator<br>.
+    ![DOMAIN NAME](https://user-images.githubusercontent.com/61822296/194907762-5ff0f239-8e1a-4fcc-9747-fcfd121d7690.png)
     
+    ![domainadmin](https://user-images.githubusercontent.com/61822296/194907769-0a25dd69-139a-4918-974d-4619c843d0f0.png)
    
   
   5. Running the createusers.ps1 powershell script to add 500 users to the active-directory, instead of manually adding them.<br>
