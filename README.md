@@ -32,7 +32,7 @@ It can also assign the scope i.e specify ip addresses range.<br>
    
    ![AD DS](https://user-images.githubusercontent.com/61822296/194907794-8879a48a-ac26-463f-b9f5-b3ec8d447183.png)
   
-  ## 4. Setting up the administrator<br>.
+  ## 4. Setting up the administrator
    
     ![DOMAIN NAME](https://user-images.githubusercontent.com/61822296/194936712-d2b23767-d41d-41f0-9e6a-53fc9176076f.png)
     ![domainadmin](https://user-images.githubusercontent.com/61822296/194936381-fbf12b67-a195-4ede-860f-8b9ad1610909.png)
@@ -40,7 +40,7 @@ It can also assign the scope i.e specify ip addresses range.<br>
 
    
   
-  ## 5. Running the createusers.ps1 powershell script to add 500 users to the active-directory, instead of manually adding them.<br>
+  ## 5. Running the createusers.ps1 powershell script to add 500 users to the active-directory, instead of manually adding them
       
      ![script](https://user-images.githubusercontent.com/61822296/194907786-16075bc2-df72-4ccf-aeb4-86d27cf3ca77.png)
      
