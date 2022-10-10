@@ -20,7 +20,7 @@ It can also assign the scope i.e specify ip addresses range.<br>
 
   1. Configuration summary<br>
   
-  Dasboard server manager dashboard showing roles and servers assigned.<br>
+  Server manager dashboard showing roles and servers assigned.<br>
   
   ![roles and servers](https://user-images.githubusercontent.com/61822296/194907783-746cb5a9-a857-4728-9b83-7ce312fcfd23.png)<br>
   
