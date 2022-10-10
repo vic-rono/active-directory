@@ -41,7 +41,7 @@ It can also assign the scope i.e specify ip addresses range.<br>
   ## 5. Running the createusers.ps1 powershell script to add 500 users to the active-directory, instead of manually adding them
       
    
-     The users as seen in the active-directory.
+
       
     
      
