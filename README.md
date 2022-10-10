@@ -28,7 +28,7 @@ It can also assign the scope i.e specify ip addresses range.<br>
        
   ![SERVER 19 INTERNAL](https://user-images.githubusercontent.com/61822296/194907788-2ac02a9b-90d6-4f7a-8c48-54907018760e.png)
   
-  ## 3. Configuring AD DS<br>
+  ## 3. Configuring AD DS
    
    ![AD DS](https://user-images.githubusercontent.com/61822296/194907794-8879a48a-ac26-463f-b9f5-b3ec8d447183.png)
   
