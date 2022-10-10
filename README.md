@@ -34,6 +34,7 @@ It can also assign the scope i.e specify ip addresses range.<br>
   
   ## 4. Setting up the administrator<br>.
     ![DOMAIN NAME](https://user-images.githubusercontent.com/61822296/194907762-5ff0f239-8e1a-4fcc-9747-fcfd121d7690.png)
+    
     ![domainadmin](https://user-images.githubusercontent.com/61822296/194913474-dbf4f511-94e7-42ee-a881-4686f7e83aaa.png)
 
    
