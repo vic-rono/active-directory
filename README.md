@@ -9,6 +9,9 @@ This lab contains a domain controller in the windows server 2019 that houses the
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+The server enables configuration of NAT and routing so that users in the internal network can reach the internet.<br>
+The server also creates doman and configures dhcp for users to automatically get ip addresses.<br>
+It can also assign the scope i.e specify ip addresses range.<br>
 
   1. Configuration summary<br>
   
